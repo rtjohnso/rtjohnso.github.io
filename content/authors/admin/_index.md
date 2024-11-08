@@ -39,12 +39,18 @@ profiles:
 #    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/rtjohnso
+    label: GitHub
 #  - icon: brands/linkedin
 #    url: https://www.linkedin.com/
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/47/6172-1.html
+    label: DBLP
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=YYcTN2EAAAAJ
+    label: Google Scholar
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0784-7410
+    label: ORCiD
 
 interests:
   - Storage Systems

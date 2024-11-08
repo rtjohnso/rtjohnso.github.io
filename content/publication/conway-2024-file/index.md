@@ -11,7 +11,10 @@ authors:
 - Michael A Bender
 - William Jannen
 - Rob Johnson
-- ' others'
+- Bradley C. Kuszmaul
+- Donald E. Porter
+- Jun Yuan
+- Martin Farach-Colton
 date: '2024-01-01'
 publishDate: '2024-11-08T07:31:19.122892Z'
 publication_types:

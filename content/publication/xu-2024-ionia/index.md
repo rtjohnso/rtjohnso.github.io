@@ -1,5 +1,5 @@
 ---
-title: $$IONIA$$:$$High-Performance$$ Replication for Modern Disk-based $$KV$$ Stores
+title: IONIA:High-Performance Replication for Modern Disk-based KV Stores
 authors:
 - Yi Xu
 - Henry Zhu
