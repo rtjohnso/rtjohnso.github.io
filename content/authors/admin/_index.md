@@ -51,8 +51,6 @@ interests:
   - File Systems
   - Data Structures
 
-bio: Building systems with strong theoretical guarantees
-
 #education:
 #  - area: PhD
 #    institution: UC Berkeley
