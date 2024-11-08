@@ -182,7 +182,7 @@ interests:
 
 ---
 
-## About Me
+## Biography
 
 Rob Johnson is a Distinguished Researcher in the VMWare Research Group. He does theoretical work with an impact on the real world. He created SplinterDB, a high-performance key-value store that is at the heart of vSAN, VMware's storage-area networking software. He created the quotient filter, a high-performance alternative to the Bloom filter, which is used within SplinterDB and by multiple startups. He designed Mosaic Pages, a scheme for increasing the efficacy of hardware translation-lookaside buffers. He developed VeriBetrKV, a verified high-performance key-value store based on his earlier work on BetrFS, a file system that uses recent advances in data structures to improve performance on many operations by over an order of magnitude. He developed Squeakr, deBGR, and Mantis, a collection of tools for performing analyses on huge genomic data sets. He founded cache-adaptive analysis, a theoretical framework for designing and analyzing algorithms that dynamically share memory with other processes. He broke the High-bandwidth Digital Content Protection (HDCP) crypto-system used in almost all DVD players and TVs. He wrote CQual, a static analysis tool that has found dozens of bugs in the Linux kernel and has been used to audit the entire Debian Linux distribution for format-string bugs.
 
